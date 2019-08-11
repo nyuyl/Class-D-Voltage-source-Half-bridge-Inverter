@@ -1,2 +1,2 @@
 # Class-D-Voltage-source-Half-bridge-Inverter
-In this project, I choose the Class D voltage-source half-bridge inverter as the time-domain simulation model. I use the Matlab/Simulink software to show current and voltage waveforms in its series-resonant components at different values of the loaded quality factor QL and to illustrate how the voltage transfer function changed with the switching frequency and QL.
+In this project, I choose the Class D voltage-source half-bridge inverter as the time-domain simulation model. I use the Matlab/Simulink software to show current and voltage waveforms in its series-resonant components at different values of the loaded quality factor QL and to illustrate how the voltage transfer function changed with the switching frequency and QL. 
